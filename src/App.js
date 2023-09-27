@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/JacksonApp.js</code> and save to reloadGarr.
+          Edit <code>src/JacksonApp.js</code> and not save to reloadGarr.
         </p>
         <a
           className="App-link"
